@@ -1,0 +1,39 @@
+html {
+    font-size: 10px; 
+    font-family: "Open Sans", sans-serif;
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+  }
+  
+  p,
+  li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #f8e4e4;
+  }
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #1cc5f8;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(182, 179, 179);
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 1px #ebba1a;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+  
+  
